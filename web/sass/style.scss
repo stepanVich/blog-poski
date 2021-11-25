@@ -51,7 +51,7 @@ a:visited {
   height: 32px;
 }
 .icon-menu:before {
-  content: url('/images/menu.svg');
+  content: url('../images/menu.svg');
   position: absolute;
   top: 0;
   left: 0;
@@ -64,7 +64,7 @@ a:visited {
 }
 
 .icon-search:after {
-  content: url('/images/search.svg');
+  content: url('../images/search.svg');
   position: absolute;
   top: 0;
   left: 0;
